@@ -1,10 +1,10 @@
 # [SE122.M21][web_link] - OpenSky - NFT Marketplace
 
-## [Link Deploy Front-end][deploy_link]
+## [Link Deploy Front-end][frontend_deploy_link]
 
 ## [Link Deploy Back-end][backend_deploy_link]
 
-## [Github Backend][github_frontend]
+## [Github Frontend][github_frontend]
 
 ## [Github Backend][github_backend]
 
@@ -23,7 +23,7 @@
 
 [//]: # "LINKS"
 [web_link]: https://github.com/huongnguyenduc/nft-auction-documentation
-[deploy_link]: https://nft-auction-uit.vercel.app/
+[frontend_deploy_link]: https://nft-auction-uit.vercel.app/
 [backend_deploy_link]: https://nft-auction-backend.herokuapp.com/api
 [github_frontend]: https://github.com/ngoduongkha/nft-auction
 [github_backend]: https://github.com/ngoduongkha/nft-auction-backend
